@@ -1,0 +1,4 @@
+source;share/femto_agv/local_setup.bash
+source;share/femto_agv/local_setup.dsv
+source;share/femto_agv/local_setup.sh
+source;share/femto_agv/local_setup.zsh

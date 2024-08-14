@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>femto_agv</name>
+  <version>0.0.0</version>
+  <description>AGV control package using diffdrive controller</description>
+  <maintainer email="my_email@email.com">MY NAME</maintainer>
+  <license>TODO: License declaration</license>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+  <build_depend>pluginlib</build_depend>
+  <build_depend>hardware_interface</build_depend>
+  <build_depend>controller_interface</build_depend>
+
+  <exec_depend>pluginlib</exec_depend>
+  <exec_depend>hardware_interface</exec_depend>
+  <exec_depend>controller_interface</exec_depend>
+  <exec_depend>diffdrive_arduino</exec_depend>
+
+  <test_depend>ament_lint_auto</test_depend>
+  <test_depend>ament_lint_common</test_depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>

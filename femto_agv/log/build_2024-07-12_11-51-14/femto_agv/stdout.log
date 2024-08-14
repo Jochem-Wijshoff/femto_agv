@@ -1,0 +1,53 @@
+-- The C compiler identification is GNU 13.2.0
+-- The CXX compiler identification is GNU 13.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 2.5.2 (/opt/ros/jazzy/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Found ament_lint_auto: 0.17.1 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+-- Added test 'copyright' to check source files copyright and LICENSE
+-- Added test 'cppcheck' to perform static code analysis on C / C++ code
+-- Configured cppcheck include dirs: 
+-- Configured cppcheck exclude dirs and/or files: 
+-- Added test 'cpplint' to check C / C++ code against the Google style
+-- Configured cpplint exclude dirs and/or files: 
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Configured 'flake8' exclude dirs and/or files: 
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'uncrustify' to check C / C++ code style
+-- Configured uncrustify additional arguments: 
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done (1.3s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/pid/ros2_ws/src/femto_agv/build/femto_agv
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/pid/ros2_ws/src/femto_agv/install/femto_agv/share/femto_agv/config/empty.yaml
+-- Symlinking: /home/pid/ros2_ws/src/femto_agv/install/femto_agv/share/femto_agv/description/robot.urdf.xacro
+-- Symlinking: /home/pid/ros2_ws/src/femto_agv/install/femto_agv/share/femto_agv/launch/rsp.launch.py
+-- Symlinking: /home/pid/ros2_ws/src/femto_agv/install/femto_agv/share/femto_agv/worlds/empty.world
+-- Symlinking: /home/pid/ros2_ws/src/femto_agv/install/femto_agv/share/ament_index/resource_index/package_run_dependencies/femto_agv
+-- Symlinking: /home/pid/ros2_ws/src/femto_agv/install/femto_agv/share/ament_index/resource_index/parent_prefix_path/femto_agv
+-- Symlinking: /home/pid/ros2_ws/src/femto_agv/install/femto_agv/share/femto_agv/environment/ament_prefix_path.sh
+-- Symlinking: /home/pid/ros2_ws/src/femto_agv/install/femto_agv/share/femto_agv/environment/ament_prefix_path.dsv
+-- Symlinking: /home/pid/ros2_ws/src/femto_agv/install/femto_agv/share/femto_agv/environment/path.sh
+-- Symlinking: /home/pid/ros2_ws/src/femto_agv/install/femto_agv/share/femto_agv/environment/path.dsv
+-- Symlinking: /home/pid/ros2_ws/src/femto_agv/install/femto_agv/share/femto_agv/local_setup.bash
+-- Symlinking: /home/pid/ros2_ws/src/femto_agv/install/femto_agv/share/femto_agv/local_setup.sh
+-- Symlinking: /home/pid/ros2_ws/src/femto_agv/install/femto_agv/share/femto_agv/local_setup.zsh
+-- Symlinking: /home/pid/ros2_ws/src/femto_agv/install/femto_agv/share/femto_agv/local_setup.dsv
+-- Symlinking: /home/pid/ros2_ws/src/femto_agv/install/femto_agv/share/femto_agv/package.dsv
+-- Symlinking: /home/pid/ros2_ws/src/femto_agv/install/femto_agv/share/ament_index/resource_index/packages/femto_agv
+-- Symlinking: /home/pid/ros2_ws/src/femto_agv/install/femto_agv/share/femto_agv/cmake/femto_agvConfig.cmake
+-- Symlinking: /home/pid/ros2_ws/src/femto_agv/install/femto_agv/share/femto_agv/cmake/femto_agvConfig-version.cmake
+-- Symlinking: /home/pid/ros2_ws/src/femto_agv/install/femto_agv/share/femto_agv/package.xml
